@@ -7,7 +7,7 @@ namespace ConsoleApp3
         static void Main(string[] args)
         {
             int nama = 1;
-            while (nama <= 5)
+          
             {
 
                 Console.Write($"Nama {nama++} :");
