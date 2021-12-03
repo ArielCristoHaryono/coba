@@ -9,8 +9,6 @@ namespace ConsoleApp3
             int nama = 1;
           
             {
-
-                Console.Write($"Nama {nama++} :");
                 string Nama = Console.ReadLine();
                 Console.Write("Alamat :");
                 string Rumah = Console.ReadLine();
